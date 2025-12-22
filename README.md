@@ -16,6 +16,9 @@ Power BI – Dashboard creation & visualization
 
 CSV Dataset – Input data format
 
+#### 📸 Dashboard Preview
+
+![Listening History Dashboard](listening_dashboard.png)
 
 ## 📂 Dataset Information
 
@@ -88,11 +91,6 @@ Key Columns:
 ✅ Demonstrates real-world data analytics workflow
 
 ✅ Suitable for GitHub, resume, and interview discussion
-
-
-#### 📸 Dashboard Preview
-
-![Listening History Dashboard](listening_dashboard.png)
 
 ## ▶️ How to Run the Project
 
