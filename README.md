@@ -92,7 +92,7 @@ Key Columns:
 
 #### 📸 Dashboard Preview
 
-![Listening History Dashboard](screenshots/listening_dashboard.png)
+![Listening History Dashboard](listening_dashboard.png)
 
 ## ▶️ How to Run the Project
 
