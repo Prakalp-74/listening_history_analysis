@@ -1,10 +1,21 @@
 
-# Project Title
+#### 📸 Dashboard Preview
 
-A brief description of what this project does and who it's for
+![Listening History Dashboard](screenshots/listening_dashboard.png)
 
+## ▶️ How to Run the Project
 
-## Authors
+▪ Download the dataset from Kaggle  
+▪ Run data cleaning and preprocessing using Python (pandas)  
+▪ Export the cleaned dataset to CSV  
+▪ Load the dataset into Power BI  
+▪ Open the .pbix file to explore the dashboard  
 
-- [@octokatherine](https://www.github.com/octokatherine)
+## 📌 Skills Demonstrated
+
+▪ Data cleaning & preprocessing  
+▪ Exploratory data analysis (EDA)  
+▪ KPI creation  
+▪ Business insight generation  
+▪ Interactive dashboard design  
 
