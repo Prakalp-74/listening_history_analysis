@@ -7,6 +7,9 @@ This project focuses on analyzing music listening behavior using a Spotify-style
 
 The project demonstrates end-to-end data analytics skills, including data cleaning, exploratory data analysis (EDA), and dashboard creation, making it suitable for data analyst internships.
 
+#### 📸 Dashboard Preview
+
+![Listening History Dashboard](listening_dashboard.png)
 
 ## 🛠️ Tools & Technologies Used
 
@@ -16,9 +19,7 @@ Power BI – Dashboard creation & visualization
 
 CSV Dataset – Input data format
 
-#### 📸 Dashboard Preview
 
-![Listening History Dashboard](listening_dashboard.png)
 
 ## 📂 Dataset Information
 
